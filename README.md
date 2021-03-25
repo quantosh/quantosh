@@ -2,10 +2,10 @@
 
 ## <h3>🤵 About me</h3>
 - 📌 Living in <img src="https://ae01.alicdn.com/kf/Ub383ce3593fb488ebb97c3a2c4432fb7J.png" width="20">
-- 🏦 I'm a System administrator  
-- 📝 I'm stuying Web development in Granada
+- 🏦 I'm a System Administrator and hardware speciallist 
+- 📝 I'm stuying Web Development in Granada
 - 💻 I use daily **.java** actually learning it
-- 📖 I am currently reading [Marie Kondo - La magia del orden"]
+- 📖 I am currently reading [Marie Kondo - La magia del orden"] 🧘‍♂️
 - 💬 We can chat, just mail me here!
 - 🕹 We can connect to play some games 
 - ⚡ Fun fact: 🌱 I love grown my own 🌶 I got a mini farm 😂
