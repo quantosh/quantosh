@@ -15,6 +15,9 @@
 ![Ubuntu](https://img.shields.io/static/v1?style=for-the-badge&message=Ubuntu&color=E95420&logo=Ubuntu&logoColor=FFFFFF&label=)
 ![macOS](https://img.shields.io/static/v1?style=for-the-badge&message=macOS&color=000000&logo=macOS&logoColor=FFFFFF&label=)
 
+## Things I'm learning now
+![Java](https://img.shields.io/static/v1?style=for-the-badge&message=Java&color=007396&logo=Java&logoColor=FFFFFF&label=)
+
 ## IDE & Tools I use
 ![Apache NetBeans IDE](https://img.shields.io/static/v1?style=for-the-badge&message=Apache+NetBeans+IDE&color=ADD439&logo=Apache+NetBeans+IDE&logoColor=EA205E&label=)
 ![Visual Studio Code](https://img.shields.io/static/v1?style=for-the-badge&message=Visual+Studio+Code&color=007ACC&logo=Visual+Studio+Code&logoColor=FFFFFF&label=)
@@ -32,9 +35,6 @@
 ![Git](https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=F05032&logo=Git&logoColor=FFFFFF&label=)
 ![GitHub](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=)
 
-## Things I'm learning now
-![Java](https://img.shields.io/static/v1?style=for-the-badge&message=Java&color=007396&logo=Java&logoColor=FFFFFF&label=)
-
 ## Other Skills
 ![Blender](https://img.shields.io/static/v1?style=for-the-badge&message=Blender&color=F5792A&logo=Blender&logoColor=FFFFFF&label=)
 ![SketchUp](https://img.shields.io/static/v1?style=for-the-badge&message=SketchUp&color=005F9E&logo=SketchUp&logoColor=FFFFFF&label=)
@@ -42,4 +42,3 @@
 ![Adobe Premiere Pro](https://img.shields.io/static/v1?style=for-the-badge&message=Adobe+Premiere+Pro&color=9999FF&logo=Adobe+Premiere+Pro&logoColor=FFFFFF&label=)
 ![Adobe After Effects](https://img.shields.io/static/v1?style=for-the-badge&message=Adobe+After+Effects&color=9999FF&logo=Adobe+After+Effects&logoColor=FFFFFF&label=)
 ![Ableton Live](https://img.shields.io/static/v1?style=for-the-badge&message=Ableton+Live&color=000000&logo=Ableton+Live&logoColor=FFFFFF&label=)
-
