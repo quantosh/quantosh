@@ -11,7 +11,7 @@
 - 🕹 We can connect to play some games 
 - ⚡ Fun fact: Je connais un peu le français
 
-<img src="https://github.com/khalby786/khalby786/blob/master/header.png?raw=true">
+<img src="https://raw.githubusercontent.com/quantosh/quantosh/main/githubcabecera.jpg?raw=true">
 
 ## Operating system & Tools
 [![VS Code](https://img.shields.io/badge/IDE-VSCode-%23007ACC?style=flat-square&logo=Visual-studio-code)](https://code.visualstudio.com/)
