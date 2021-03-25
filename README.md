@@ -1,5 +1,5 @@
 <img src="https://raw.githubusercontent.com/quantosh/quantosh/main/githubcabecera.jpg?raw=true">
-<h1>:wave: Quantosh is how I name my personal brand </h1>
+<center><h1>:wave: Quantosh is how I name my personal brand </h1></center>
 
 ### <h3>🤵 About me</h3>
 - 📌 Living in <img src="https://ae01.alicdn.com/kf/Ub383ce3593fb488ebb97c3a2c4432fb7J.png" width="20">
