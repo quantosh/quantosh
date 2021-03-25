@@ -1,3 +1,4 @@
+<img src="https://raw.githubusercontent.com/quantosh/quantosh/main/githubcabecera.jpg?raw=true">
 <h1>Hello I'm Ismael! :wave: Quantosh is how I call the box where all my ideas come from </h1>
 
 ### <h3>🤵 About me</h3>
@@ -11,7 +12,7 @@
 - 🕹 We can connect to play some games 
 - ⚡ Fun fact: Je connais un peu le français
 
-<img src="https://raw.githubusercontent.com/quantosh/quantosh/main/githubcabecera.jpg?raw=true">
+
 
 ## Operating system & Tools
 [![VS Code](https://img.shields.io/badge/IDE-VSCode-%23007ACC?style=flat-square&logo=Visual-studio-code)](https://code.visualstudio.com/)
