@@ -1,18 +1,16 @@
 <img src="https://raw.githubusercontent.com/quantosh/quantosh/main/githubcabecera.jpg?raw=true">
-<h1>Hello I'm Ismael! :wave: Quantosh is how I call the box where all my ideas come from </h1>
+<h1>:wave: Quantosh is how I name my personal brand </h1>
 
 ### <h3>🤵 About me</h3>
-- 🏦 I'm a Software Engineer working for a health tech startup in India 
-      <img src="https://ae01.alicdn.com/kf/Ub383ce3593fb488ebb97c3a2c4432fb7J.png" width="30">
-- 📝 I regulary write technical 
+- 📌 Living in <img src="https://ae01.alicdn.com/kf/Ub383ce3593fb488ebb97c3a2c4432fb7J.png" width="30">
+- 🏦 I'm a System administrator  
+- 📝 I'm stuying Web development in Granada
 - 🌱 
-- 💻 I use daily **.java**, **.py**, **.sql**
+- 💻 I use daily **.java** actually learning it
 - 📖 I am currently reading [Marie Kondo - La magia del orden"]
 - 💬 We can chat
 - 🕹 We can connect to play some games 
 - ⚡ Fun fact: Je connais un peu le français
-
-
 
 ## Operating system & Tools
 [![VS Code](https://img.shields.io/badge/IDE-VSCode-%23007ACC?style=flat-square&logo=Visual-studio-code)](https://code.visualstudio.com/)
