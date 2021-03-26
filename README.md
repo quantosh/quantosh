@@ -42,3 +42,16 @@
 ![Adobe Premiere Pro](https://img.shields.io/static/v1?style=for-the-badge&message=Adobe+Premiere+Pro&color=9999FF&logo=Adobe+Premiere+Pro&logoColor=FFFFFF&label=)
 ![Adobe After Effects](https://img.shields.io/static/v1?style=for-the-badge&message=Adobe+After+Effects&color=9999FF&logo=Adobe+After+Effects&logoColor=FFFFFF&label=)
 ![Ableton Live](https://img.shields.io/static/v1?style=for-the-badge&message=Ableton+Live&color=000000&logo=Ableton+Live&logoColor=FFFFFF&label=)
+
+**If you find my work good, consider giving it a :star: to show some :heart:. It helps me stay on track and be motivated.**
+<hr>
+<p align="center">
+   <i>Every day you choose, choose well what you choose.</i>
+   <br>
+<br>
+<a target="_blank" href="https://www.linkedin.com/in/ismaelbareainsua"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
+<a target="_blank" href="mailto:quantosh@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
+<a target="_blank" href="https://medium.com/@quantosh"><img src="https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=Medium&logoColor=white"></img></a>
+<a target="_blank" href="https://twitter.com/quantosh"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
+<br>
+</p>       
