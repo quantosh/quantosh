@@ -44,9 +44,10 @@
 ![Ableton Live](https://img.shields.io/static/v1?style=for-the-badge&message=Ableton+Live&color=000000&logo=Ableton+Live&logoColor=FFFFFF&label=)
 
 ## My passions 💖
-* Make noise and 3D things ![Instagram](https://img.shields.io/static/v1?style=for-the-badge&message=Instagram&color=E4405F&logo=Instagram&logoColor=FFFFFF&label= https://www.instagram.com/smlopd/)
+* Make noise and 3D things [Instagram](https://www.instagram.com/smlopd/)
 * Visit new sites and learn
 * Nutrition 
+* Photography Olympus OM-D E-M10 Mark III 
 * Smile and make people smile
 
 ## Top language used in my repos
