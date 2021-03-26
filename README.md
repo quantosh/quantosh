@@ -66,7 +66,7 @@
 </p>       
 
 <details>
-<summary>More facts about me! </summary>
+<summary>😺 More facts about me! </summary>
 <h3> My passions 💖 <h3> 
 <p>
   
