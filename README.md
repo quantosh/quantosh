@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://raw.githubusercontent.com/quantosh/quantosh/main/animatedtopI.gif?raw=true">
+<img src="https://raw.githubusercontent.com/quantosh/quantosh/main/animatedcrop.gif?raw=true">
 </p>
 
 ## 🤵 About me
