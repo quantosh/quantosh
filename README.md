@@ -25,6 +25,7 @@
 ![Visual Studio Code](https://img.shields.io/static/v1?style=for-the-badge&message=Visual+Studio+Code&color=007ACC&logo=Visual+Studio+Code&logoColor=FFFFFF&label=)
 ![Visual Studio](https://img.shields.io/static/v1?style=for-the-badge&message=Visual+Studio&color=5C2D91&logo=Visual+Studio&logoColor=FFFFFF&label=)
 ![Notepad++](https://img.shields.io/static/v1?style=for-the-badge&message=Notepad%2B%2B&color=222222&logo=Notepad%2B%2B&logoColor=90E59A&label=)
+![Microsoft Teams](https://img.shields.io/static/v1?style=for-the-badge&message=Microsoft+Teams&color=6264A7&logo=Microsoft+Teams&logoColor=FFFFFF&label=)
 ![Trello](https://img.shields.io/static/v1?style=for-the-badge&message=Trello&color=0079BF&logo=Trello&logoColor=FFFFFF&label=)
 ![Evernote](https://img.shields.io/static/v1?style=for-the-badge&message=Evernote&color=00A82D&logo=Evernote&logoColor=FFFFFF&label=)
 
