@@ -45,6 +45,7 @@
 ![Adobe After Effects](https://img.shields.io/static/v1?style=for-the-badge&message=Adobe+After+Effects&color=9999FF&logo=Adobe+After+Effects&logoColor=FFFFFF&label=)
 ![Ableton Live](https://img.shields.io/static/v1?style=for-the-badge&message=Ableton+Live&color=000000&logo=Ableton+Live&logoColor=FFFFFF&label=)
 
+<details>
 ## My passions 💖
 * Make noise and 3D things 🎨 | [Instagram](https://www.instagram.com/smlopd/)
 * Nutrition 🍏
