@@ -4,13 +4,13 @@
 
 ## 🤵 About me
 - 📌 Living in  <img src="https://ae01.alicdn.com/kf/Ub383ce3593fb488ebb97c3a2c4432fb7J.png" width="20">
-- 🏦 I'm a System Administrator and hardware speciallist 
-- 📝 I'm stuying Web Development in **Granada**
-- 💻 I use daily **.java** (actually learning it)
+- 🏦 I'm a System Administrator and hardware specialist 
+- 📝 I'm studying Web Development in **Granada**
+- 💻 I use **.java** daily (actually learning it)
 - 📖 I am currently reading [Marie Kondo - La magia del orden"] 🧘‍♂️
 - 💬 We can chat, just mail me here!
 - 🕹 We can connect to play some games 
-- ⚡ Fun fact: 🌱 I love grown my own 🌶 I got a mini farm 😂 do you want one?
+- ⚡ Fun fact: 🌱 I love growning my own 🌶 I got a mini farm 😂 do you want one?
 
 ## Operating systems 
 ![Windows 10](https://img.shields.io/static/v1?style=for-the-badge&message=Windows&color=0078D6&logo=Windows&logoColor=FFFFFF&label=)
