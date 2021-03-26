@@ -73,6 +73,6 @@
 * Nutrition 🍏
 * Photography Olympus OM-D E-M10 Mark III 📷
 * Ride with my bike 🚲
-* Smile and make people smile 😁
-</p>
+* Smile and make people smile 😁</p>
+
 </details>
