@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/quantosh/quantosh/main/githubcabecera.png?raw=true">
+<img src="https://raw.githubusercontent.com/quantosh/quantosh/main/githubcabeceraII.png?raw=true">
 
 ## 🤵 About me
 - 📌 Living in  <img src="https://ae01.alicdn.com/kf/Ub383ce3593fb488ebb97c3a2c4432fb7J.png" width="20">
