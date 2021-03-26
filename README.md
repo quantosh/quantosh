@@ -45,16 +45,6 @@
 ![Adobe After Effects](https://img.shields.io/static/v1?style=for-the-badge&message=Adobe+After+Effects&color=9999FF&logo=Adobe+After+Effects&logoColor=FFFFFF&label=)
 ![Ableton Live](https://img.shields.io/static/v1?style=for-the-badge&message=Ableton+Live&color=000000&logo=Ableton+Live&logoColor=FFFFFF&label=)
 
-<details>
-  <summary>More facts about me!</summary>
-  ## My passions 💖
-  * Make noise and 3D things 🎨 | [Instagram](https://www.instagram.com/smlopd/)
-  * Nutrition 🍏
-  * Photography Olympus OM-D E-M10 Mark III 📷
-  * Ride with my bike 🚲
-  * Smile and make people smile 😁
-</details>
-
 ## Top language used in my repos
 <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=quantosh&layout=compact&hide_title=1&card_width=300" alt="Top language used in my repos" />
 
@@ -74,3 +64,13 @@
 <a target="_blank" href="https://medium.com/@quantosh"><img src="https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=Medium&logoColor=white"></img></a>
 <br>
 </p>       
+
+<details>
+<summary>More facts about me!</summary>
+<h3> My passions 💖 <h3> 
+* Make noise and 3D things 🎨 | [Instagram](https://www.instagram.com/smlopd/)
+* Nutrition 🍏
+* Photography Olympus OM-D E-M10 Mark III 📷
+* Ride with my bike 🚲
+* Smile and make people smile 😁
+</details>
