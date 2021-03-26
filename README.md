@@ -46,12 +46,14 @@
 ![Ableton Live](https://img.shields.io/static/v1?style=for-the-badge&message=Ableton+Live&color=000000&logo=Ableton+Live&logoColor=FFFFFF&label=)
 
 <details>
-## My passions 💖
-* Make noise and 3D things 🎨 | [Instagram](https://www.instagram.com/smlopd/)
-* Nutrition 🍏
-* Photography Olympus OM-D E-M10 Mark III 📷
-* Ride with my bike 🚲
-* Smile and make people smile 😁
+  <summary>More facts about me!</summary>
+  ## My passions 💖
+  * Make noise and 3D things 🎨 | [Instagram](https://www.instagram.com/smlopd/)
+  * Nutrition 🍏
+  * Photography Olympus OM-D E-M10 Mark III 📷
+  * Ride with my bike 🚲
+  * Smile and make people smile 😁
+</details>
 
 ## Top language used in my repos
 <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=quantosh&layout=compact&hide_title=1&card_width=300" alt="Top language used in my repos" />
