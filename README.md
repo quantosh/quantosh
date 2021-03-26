@@ -44,16 +44,19 @@
 ![Ableton Live](https://img.shields.io/static/v1?style=for-the-badge&message=Ableton+Live&color=000000&logo=Ableton+Live&logoColor=FFFFFF&label=)
 
 ## My passions 💖
-* Make noise and 3D things [Instagram](https://www.instagram.com/smlopd/)
-* Visit new sites and learn
-* Nutrition 
-* Photography Olympus OM-D E-M10 Mark III 
-* Smile and make people smile
+* Make noise and 3D things 🎨 [Instagram](https://www.instagram.com/smlopd/)
+* Nutrition 🍏
+* Photography Olympus OM-D E-M10 Mark III 📷
+* Ride with my bike 🚲
+* Smile and make people smile 😁
 
 ## Top language used in my repos
 <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aralroca&layout=compact&hide_title=1&card_width=300" alt="Top language used in my repos" />
 
-**If you find my work good, consider giving it a :star: to show some :heart:. It helps me stay on track and be motivated.**
+<div align="center">
+   **If you find my work good, consider giving it a :star: to show some :heart:. It helps me stay on track and be motivated.**
+</div>
+
 <hr>
 <p align="center">
    <i>Every day you choose, choose well what you choose.</i>
