@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/quantosh/quantosh/main/githubcabeceraI.png?raw=true">
 
-| Primer encabezado | Segundo encabezado |
+| Español | Inglés |
 | ------------- | ------------- |
 | Contenido de la celda  | Contenido de la celda  |
 | Contenido de la celda  | Contenido de la celda  |
