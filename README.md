@@ -68,9 +68,12 @@
 <details>
 <summary>More facts about me!</summary>
 <h3> My passions 💖 <h3> 
+ 
 * Make noise and 3D things 🎨 | [Instagram](https://www.instagram.com/smlopd/)
 * Nutrition 🍏
 * Photography Olympus OM-D E-M10 Mark III 📷
 * Ride with my bike 🚲
 * Smile and make people smile 😁
+
+
 </details>
