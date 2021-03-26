@@ -8,7 +8,7 @@
 - 📖 I am currently reading [Marie Kondo - La magia del orden"] 🧘‍♂️
 - 💬 We can chat, just mail me here!
 - 🕹 We can connect to play some games 
-- ⚡ Fun fact: 🌱 I love grown my own 🌶 I got a mini farm 😂
+- ⚡ Fun fact: 🌱 I love grown my own 🌶 I got a mini farm 😂 do you want one?
 
 ## Operating systems 
 ![Windows 10](https://img.shields.io/static/v1?style=for-the-badge&message=Windows&color=0078D6&logo=Windows&logoColor=FFFFFF&label=)
