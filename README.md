@@ -47,9 +47,6 @@
 ![Adobe After Effects](https://img.shields.io/static/v1?style=for-the-badge&message=Adobe+After+Effects&color=9999FF&logo=Adobe+After+Effects&logoColor=FFFFFF&label=)
 ![Ableton Live](https://img.shields.io/static/v1?style=for-the-badge&message=Ableton+Live&color=000000&logo=Ableton+Live&logoColor=FFFFFF&label=)
 
-## Top language used in my repos
-<img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=quantosh&layout=compact&hide_title=1&card_width=300" alt="Top language used in my repos" />
-
 ## IT knowledge (From syllabus)
 | FPGM Sistemas microinformáticos | FPGS Administrador de Sistemas en Red | FPGS Desarrollo de Aplicaciones Web |
 | -- | -- | -- |
@@ -67,8 +64,11 @@
 | | Horas de Libre Configuración |
 | -- | -- | -- |
 
+## Top language used in my repos
+<img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=quantosh&layout=compact&hide_title=1&card_width=300" alt="Top language used in my repos" />
+
 <div align="center">
-   __If you find my work good, consider giving it a :star: to show some :heart:. It helps me stay on track and be motivated.__
+   **If you find my work good, consider giving it a :star: to show some :heart:. It helps me stay on track and be motivated.**
 </div>
 
 <hr>
