@@ -49,8 +49,8 @@
 ## Top language used in my repos
 <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=quantosh&layout=compact&hide_title=1&card_width=300" alt="Top language used in my repos" />
 
-## IT knowledge (Syllabus)
-| Sistemas microinformáticos | Administrador de sistemas en red | Desarrollo de aplicaciones web |
+## IT knowledge (From syllabus)
+| FPGM Sistemas microinformáticos | FPGS Administrador de Sistemas en Red | FPGS Desarrollo de Aplicaciones Web |
 | -- | -- | -- |
 | Montaje y Mantenimiento de Equipo | Implantación de Sistemas Operativos | Programación |
 | Sistemas Operativos Monopuesto | Planificación y Administración de Redes | Bases de Datos |
@@ -59,12 +59,11 @@
 | Sistemas Operativos en Red | Lenguajes de Marcas y Sistemas de Gestión de Información | Despliegue de aplicaciones web |
 | Seguridad Informática | Planificación y Administración de Redes | Diseño de interfaces WEB |
 | Servicios en Red | Administración de Sistemas Operativos |
-| Aplicaciones Web | ervicios en Red e Internet |
+| Aplicaciones Web | Servicios en Red e Internet |
 | Horas de libre configuración | Implantación de Aplicaciones Web  |
 | | Administración de Sistemas Gestores de Bases de Datos |
 | | Seguridad y Alta Disponibilidad |
-| | Empresa e Iniciativa Emprendedora |
-| | Horas de Libre Configuración HLC |
+| | Horas de Libre Configuración |
 
 <div align="center">
    **If you find my work good, consider giving it a :star: to show some :heart:. It helps me stay on track and be motivated.**
