@@ -65,7 +65,7 @@
 | -- | -- | -- |
 
 ## Top language used in my repos
-<img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=quantosh&layout=compact&hide_title=1&card_width=300" alt="Top language used in my repos" />
+<img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=quantosh&layout=compact&hide_title=1&card_width=%" alt="Top language used in my repos" />
 
 <div align="center">
    **If you find my work good, consider giving it a :star: to show some :heart:. It helps me stay on track and be motivated.**
