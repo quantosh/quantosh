@@ -16,21 +16,21 @@
 
 | Sistemas microinformáticos | Administrador de sistemas en red | Desarrollo de aplicaciones web |
 | -- | -- | -- |
-| **[ISO]: Implantación de Sistemas Operativos |
-| **[PAR]: Planificación y Administración de Redes |
-| **[FH]: Fundamentos de Hardware |
-| **[GBD]: Gestión de Bases de Datos |
-| **[LMSGI]: Lenguajes de Marcas y Sistemas de Gestión de Información |
-| **[FOL]: Planificación y Administración de Redes |
-| **[ASO]: Administración de Sistemas Operativos |
-| **[SRI]: Servicios en Red e Internet |
-| **[IAW]: Implantación de Aplicaciones Web  |
-| **[ASGBD]: Administración de Sistemas Gestores de Bases de Datos |
-| **[SAD]: Seguridad y Alta Disponibilidad |
-| **[EINEM]: Empresa e Iniciativa Emprendedora |
-| **[HTLC]: Horas de Libre Configuración HLC |
-| **[FCT]: Formación en Centros de Trabajo |
-| **[PASIR]: Proyecto de Administración de Sistemas Informáticos en Red |
+| Implantación de Sistemas Operativos |
+| Planificación y Administración de Redes |
+| Fundamentos de Hardware |
+| Gestión de Bases de Datos |
+| Lenguajes de Marcas y Sistemas de Gestión de Información |
+| Planificación y Administración de Redes |
+| Administración de Sistemas Operativos |
+| ervicios en Red e Internet |
+| Implantación de Aplicaciones Web  |
+| Administración de Sistemas Gestores de Bases de Datos |
+| Seguridad y Alta Disponibilidad |
+| Empresa e Iniciativa Emprendedora |
+| Horas de Libre Configuración HLC |
+| Formación en Centros de Trabajo |
+| Proyecto de Administración de Sistemas Informáticos en Red |
 
 ## Operating systems 
 ![Windows 10](https://img.shields.io/static/v1?style=for-the-badge&message=Windows&color=0078D6&logo=Windows&logoColor=FFFFFF&label=)
