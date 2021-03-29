@@ -68,7 +68,7 @@
 | -- | -- | -- |
 
 <div align="center">
-   **If you find my work good, consider giving it a :star: to show some :heart:. It helps me stay on track and be motivated.**
+   __If you find my work good, consider giving it a :star: to show some :heart:. It helps me stay on track and be motivated.__
 </div>
 
 <hr>
