@@ -12,23 +12,25 @@
 - 🕹 We can connect to play some games 
 - ⚡ Fun fact: 🌱 I love growning my own 🌶 I got a mini farm 😂 do you want one?
 
+*[ISO]: Implantación de Sistemas Operativos
+
 | Sistemas microinformáticos | Administrador de sistemas en red | Desarrollo de aplicaciones web |
 | -- | -- | -- |
-| *[ISO]: Implantación de Sistemas Operativos |
-| *[PAR]: Planificación y Administración de Redes |
-| *[FH]: Fundamentos de Hardware |
-| *[GBD]: Gestión de Bases de Datos |
-| *[LMSGI]: Lenguajes de Marcas y Sistemas de Gestión de Información |
-| *[FOL]: Planificación y Administración de Redes |
-| *[ASO]: Administración de Sistemas Operativos |
-| *[SRI]: Servicios en Red e Internet |
-| *[IAW]: Implantación de Aplicaciones Web  |
-| *[ASGBD]: Administración de Sistemas Gestores de Bases de Datos |
-| *[SAD]: Seguridad y Alta Disponibilidad |
-| *[EINEM]: Empresa e Iniciativa Emprendedora |
-| *[HTLC]: Horas de Libre Configuración HLC |
-| *[FCT]: Formación en Centros de Trabajo |
-| *[PASIR]: Proyecto de Administración de Sistemas Informáticos en Red |
+| **[ISO]: Implantación de Sistemas Operativos |
+| **[PAR]: Planificación y Administración de Redes |
+| **[FH]: Fundamentos de Hardware |
+| **[GBD]: Gestión de Bases de Datos |
+| **[LMSGI]: Lenguajes de Marcas y Sistemas de Gestión de Información |
+| **[FOL]: Planificación y Administración de Redes |
+| **[ASO]: Administración de Sistemas Operativos |
+| **[SRI]: Servicios en Red e Internet |
+| **[IAW]: Implantación de Aplicaciones Web  |
+| **[ASGBD]: Administración de Sistemas Gestores de Bases de Datos |
+| **[SAD]: Seguridad y Alta Disponibilidad |
+| **[EINEM]: Empresa e Iniciativa Emprendedora |
+| **[HTLC]: Horas de Libre Configuración HLC |
+| **[FCT]: Formación en Centros de Trabajo |
+| **[PASIR]: Proyecto de Administración de Sistemas Informáticos en Red |
 
 ## Operating systems 
 ![Windows 10](https://img.shields.io/static/v1?style=for-the-badge&message=Windows&color=0078D6&logo=Windows&logoColor=FFFFFF&label=)
