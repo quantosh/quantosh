@@ -1,7 +1,6 @@
 <p align="center">
 <img src="https://raw.githubusercontent.com/quantosh/quantosh/main/animatedcrop.gif?raw=true">
 </p>
-
 ## 🤵 About me
 - 📌 Living in  <img src="https://ae01.alicdn.com/kf/Ub383ce3593fb488ebb97c3a2c4432fb7J.png" width="20">
 - 🏦 I'm a System Administrator and hardware specialist 
@@ -19,9 +18,10 @@
 
 ## Things I'm learning now
 ![Java](https://img.shields.io/static/v1?style=for-the-badge&message=Java&color=007396&logo=Java&logoColor=FFFFFF&label=)
+![TypeScript](https://img.shields.io/static/v1?style=for-the-badge&message=TypeScript&color=3178C6&logo=TypeScript&logoColor=FFFFFF&label=)
 
 ## IDE & Tools I use
-![Apache NetBeans IDE](https://img.shields.io/static/v1?style=for-the-badge&message=Apache+NetBeans+IDE&color=ADD439&logo=Apache+NetBeans+IDE&logoColor=EA205E&label=)
+![Apache NetBeans IDE](https://img.shields.io/static/v1?style=for-the-badge&message=Apache+NetBeans+IDE&color=646464&logo=Apache+NetBeans+IDE&logoColor=EA205E&label=)
 ![Visual Studio Code](https://img.shields.io/static/v1?style=for-the-badge&message=Visual+Studio+Code&color=007ACC&logo=Visual+Studio+Code&logoColor=FFFFFF&label=)
 ![Visual Studio](https://img.shields.io/static/v1?style=for-the-badge&message=Visual+Studio&color=5C2D91&logo=Visual+Studio&logoColor=FFFFFF&label=)
 ![Notepad++](https://img.shields.io/static/v1?style=for-the-badge&message=Notepad%2B%2B&color=222222&logo=Notepad%2B%2B&logoColor=90E59A&label=)
@@ -64,6 +64,7 @@
 | | Administración de Sistemas Gestores de Bases de Datos |
 | | Seguridad y Alta Disponibilidad |
 | | Horas de Libre Configuración |
+
 
 <div align="center">
    **If you find my work good, consider giving it a :star: to show some :heart:. It helps me stay on track and be motivated.**
