@@ -12,26 +12,6 @@
 - 🕹 We can connect to play some games 
 - ⚡ Fun fact: 🌱 I love growning my own 🌶 I got a mini farm 😂 do you want one?
 
-*[ISO]: Implantación de Sistemas Operativos
-
-| Sistemas microinformáticos | Administrador de sistemas en red | Desarrollo de aplicaciones web |
-| -- | -- | -- |
-| Implantación de Sistemas Operativos |
-| Planificación y Administración de Redes |
-| Fundamentos de Hardware |
-| Gestión de Bases de Datos |
-| Lenguajes de Marcas y Sistemas de Gestión de Información |
-| Planificación y Administración de Redes |
-| Administración de Sistemas Operativos |
-| ervicios en Red e Internet |
-| Implantación de Aplicaciones Web  |
-| Administración de Sistemas Gestores de Bases de Datos |
-| Seguridad y Alta Disponibilidad |
-| Empresa e Iniciativa Emprendedora |
-| Horas de Libre Configuración HLC |
-| Formación en Centros de Trabajo |
-| Proyecto de Administración de Sistemas Informáticos en Red |
-
 ## Operating systems 
 ![Windows 10](https://img.shields.io/static/v1?style=for-the-badge&message=Windows&color=0078D6&logo=Windows&logoColor=FFFFFF&label=)
 ![Ubuntu](https://img.shields.io/static/v1?style=for-the-badge&message=Ubuntu&color=E95420&logo=Ubuntu&logoColor=FFFFFF&label=)
@@ -68,6 +48,23 @@
 
 ## Top language used in my repos
 <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=quantosh&layout=compact&hide_title=1&card_width=300" alt="Top language used in my repos" />
+
+## IT knowledge (Syllabus)
+| Sistemas microinformáticos | Administrador de sistemas en red | Desarrollo de aplicaciones web |
+| -- | -- | -- |
+| Montaje y Mantenimiento de Equipo | Implantación de Sistemas Operativos | Programación |
+| Sistemas Operativos Monopuesto | Planificación y Administración de Redes | Bases de Datos |
+| Aplicaciones Ofimáticas | Fundamentos de Hardware | Entornos de Desarrollo |
+| Redes Locales | Gestión de Bases de Datos | Desarrollo web en entorno cliente |
+| Sistemas Operativos en Red | Lenguajes de Marcas y Sistemas de Gestión de Información | Despliegue de aplicaciones web |
+| Seguridad Informática | Planificación y Administración de Redes | Diseño de interfaces WEB |
+| Servicios en Red | Administración de Sistemas Operativos |
+| Aplicaciones Web | ervicios en Red e Internet |
+| Horas de libre configuración | Implantación de Aplicaciones Web  |
+| | Administración de Sistemas Gestores de Bases de Datos |
+| | Seguridad y Alta Disponibilidad |
+| | Empresa e Iniciativa Emprendedora |
+| | Horas de Libre Configuración HLC |
 
 <div align="center">
    **If you find my work good, consider giving it a :star: to show some :heart:. It helps me stay on track and be motivated.**
