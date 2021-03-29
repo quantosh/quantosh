@@ -65,7 +65,7 @@
 | | Administración de Sistemas Gestores de Bases de Datos |
 | | Seguridad y Alta Disponibilidad |
 | | Horas de Libre Configuración |
-
+| -- | -- | -- |
 
 <div align="center">
    **If you find my work good, consider giving it a :star: to show some :heart:. It helps me stay on track and be motivated.**
