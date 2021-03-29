@@ -11,6 +11,7 @@
 - 💬 We can chat, just mail me here!
 - 🕹 We can connect to play some games 
 - ⚡ Fun fact: 🌱 I love growning my own 🌶 I got a mini farm 😂 do you want one?
+
 | Sistemas microinformáticos | Administrador de sistemas en red | Desarrollo de aplicaciones web |
 | -- | -- | -- |
 | *[ISO]: Implantación de Sistemas Operativos |
