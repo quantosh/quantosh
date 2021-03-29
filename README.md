@@ -63,7 +63,6 @@
 | | Administración de Sistemas Gestores de Bases de Datos |
 | | Seguridad y Alta Disponibilidad |
 | | Horas de Libre Configuración |
-| -- | -- | -- |
 
 ## Top language used in my repos
 <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=quantosh&layout=compact&hide_title=1&card_width=%" alt="Top language used in my repos" />
