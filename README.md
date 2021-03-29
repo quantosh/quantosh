@@ -22,7 +22,7 @@
 ![TypeScript](https://img.shields.io/static/v1?style=for-the-badge&message=TypeScript&color=3178C6&logo=TypeScript&logoColor=FFFFFF&label=)
 
 ## IDE & Tools I use
-![Apache NetBeans IDE](https://img.shields.io/static/v1?style=for-the-badge&message=Apache+NetBeans+IDE&color=646464&logo=Apache+NetBeans+IDE&logoColor=EA205E&label=)
+![Apache NetBeans IDE](https://img.shields.io/static/v1?style=for-the-badge&message=Apache+NetBeans+IDE&color=646464&logo=Apache+NetBeans+IDE&logoColor=FFFFFF&label=)
 ![Visual Studio Code](https://img.shields.io/static/v1?style=for-the-badge&message=Visual+Studio+Code&color=007ACC&logo=Visual+Studio+Code&logoColor=FFFFFF&label=)
 ![Visual Studio](https://img.shields.io/static/v1?style=for-the-badge&message=Visual+Studio&color=5C2D91&logo=Visual+Studio&logoColor=FFFFFF&label=)
 ![Notepad++](https://img.shields.io/static/v1?style=for-the-badge&message=Notepad%2B%2B&color=222222&logo=Notepad%2B%2B&logoColor=90E59A&label=)
