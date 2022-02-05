@@ -3,7 +3,7 @@
 </p>
 
 ## 🤵 About me
-- 📌 Living in  <img src="https://ae01.alicdn.com/kf/Ub383ce3593fb488ebb97c3a2c4432fb7J.png" width="20">
+- 📌 Living in  🇪🇸<img src="https://ae01.alicdn.com/kf/Ub383ce3593fb488ebb97c3a2c4432fb7J.png" width="20">
 - 🏦 I'm a System Administrator and hardware specialist 
 - 📝 I'm studying Web Development in **Granada**
 - 💻 I use **.java** daily (actually learning it)
