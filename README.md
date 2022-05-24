@@ -11,7 +11,7 @@
 - 💬 We can chat, just mail me here!
 - 🕹 We can connect to play some games 
 - ⚡ Fun fact: 🌱 I love growning my own 🌶 I got a mini farm 😂 do you want one?
-- 📝 [Resume](https://drive.google.com/file/d/16RvckocdtavnLe0myIizjQAAEujWL6zy/view)
+- 📝 [Resume](https://drive.google.com/file/d/1wE3siumGq3f210yQzIXaJ-HkV2Y1QTC5/view?usp=sharing)
 
 ## Operating systems 
 ![Windows 10](https://img.shields.io/static/v1?style=for-the-badge&message=Windows&color=0078D6&logo=Windows&logoColor=FFFFFF&label=)
