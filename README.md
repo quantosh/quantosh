@@ -5,8 +5,7 @@
 ## 🤵 About me
 - 📌 Living in <img src="https://ae01.alicdn.com/kf/Ub383ce3593fb488ebb97c3a2c4432fb7J.png" width="20">
 - 🏦 I'm a System Administrator and hardware specialist 
-- 📝 I'm studying Web Development in **Granada**
-- 💻 I use **.java** daily (actually learning it)
+- 📝 I'm ending Web App Development in **Granada** at **IES Zaidin Vergeles**
 - 📖 I am currently reading [Marie Kondo - La magia del orden"] 🧘‍♂️
 - 💬 We can chat, just mail me here!
 - 🕹 We can connect to play some games 
@@ -80,7 +79,6 @@
 <a target="_blank" href="https://www.linkedin.com/in/ismaelbareainsua"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
 <a target="_blank" href="mailto:quantosh@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
 <a target="_blank" href="https://twitter.com/quantosh"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
-<a target="_blank" href="https://medium.com/@quantosh"><img src="https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=Medium&logoColor=white"></img></a>
 <br>
 </p>       
 
@@ -90,7 +88,6 @@
 <p>
   
 * Make noise and 3D things 🎨 | [Instagram](https://www.instagram.com/smlopd/)
-* Nutrition 🍏
 * Photography Olympus OM-D E-M10 Mark III 📷
 * Ride with my bike 🚲
 * Smile and make people smile 😁
