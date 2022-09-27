@@ -9,7 +9,7 @@
 - 💬 We can chat, just mail me here!
 - 🕹 We can connect to play some games 
 - ⚡ Fun fact: 🌱 I love growning my own 🌶 I got a mini farm 😂 do you want one?
-- 📝 [Resume_ES] (https://drive.google.com/file/d/1wE3siumGq3f210yQzIXaJ-HkV2Y1QTC5/view?usp=sharing)
+- 📝 [Resume_ES](https://drive.google.com/file/d/1wE3siumGq3f210yQzIXaJ-HkV2Y1QTC5/view?usp=sharing)
 
 ### Top language used in my repos
 <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=quantosh&layout=compact&hide_title=1&card_width=%" alt="Top language used in my repos" />
