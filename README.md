@@ -5,7 +5,7 @@
 ##### 👇 NOW
 
 - 📈 Currently doing an internship
-- ✨ Doing some challenges from [frontendmentor](https://www.frontendmentor.io/) website.
+- ✨ Doing some challenges from [frontendmentor](https://www.frontendmentor.io/profile/quantosh) website.
 
 ##### 🤵 BIO
 - 📌 Living in <img src="https://ae01.alicdn.com/kf/Ub383ce3593fb488ebb97c3a2c4432fb7J.png" width="20">
