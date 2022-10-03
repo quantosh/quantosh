@@ -13,7 +13,7 @@
 - 📝 I'm ending Web App Development in **Granada** at **IES Zaidin Vergeles**
 - 💬 We can chat, just mail me here!
 - 🕹 We can connect to play some games 
-- ⚡ Fun fact: 🌱 I love growning my own 🌶 I got a mini farm 😂 do you want one?
+- ⚡ Fun fact: 🌱 I love growning my own 🌶 I got a mini farm 😂 do you want to taste one?
 - 📝 [Resume_ES](https://drive.google.com/file/d/1wE3siumGq3f210yQzIXaJ-HkV2Y1QTC5/view?usp=sharing)
 
 <div align="center">
