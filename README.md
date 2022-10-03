@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+#### I'm a Full-Stack Developer working in Granada, Spain.
+
+##### 👇 NOW
+
+- 📈 Currently doing an internship
+- ✨ Doing some challenges from [frontendmentor](https://www.frontendmentor.io/) website.
+
 ##### 🤵 BIO
 - 📌 Living in <img src="https://ae01.alicdn.com/kf/Ub383ce3593fb488ebb97c3a2c4432fb7J.png" width="20">
 - 🏦 I'm a System Administrator and hardware specialist 
