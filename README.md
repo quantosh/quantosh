@@ -1,4 +1,6 @@
-### 🤵 About me
+### Hi there 👋
+
+##### 🤵 BIO
 - 📌 Living in <img src="https://ae01.alicdn.com/kf/Ub383ce3593fb488ebb97c3a2c4432fb7J.png" width="20">
 - 🏦 I'm a System Administrator and hardware specialist 
 - 📝 I'm ending Web App Development in **Granada** at **IES Zaidin Vergeles**
@@ -6,9 +8,6 @@
 - 🕹 We can connect to play some games 
 - ⚡ Fun fact: 🌱 I love growning my own 🌶 I got a mini farm 😂 do you want one?
 - 📝 [Resume_ES](https://drive.google.com/file/d/1wE3siumGq3f210yQzIXaJ-HkV2Y1QTC5/view?usp=sharing)
-
-### Top language used in my repos
-<img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=quantosh&layout=compact&hide_title=1&card_width=%" alt="Top language used in my repos" />
 
 <div align="center">
    If you find my work good, consider giving it a :star: to show some :heart:. It helps me stay on track and be motivated.
@@ -29,13 +28,12 @@
 <details>
 <summary>😺 More facts about me! </summary>
 <h3> My passions 💖 <h3> 
-<p>
-  
+
+<p>  
 * Make noise and 3D things 🎨 | [Instagram](https://www.instagram.com/smlopd/)
 * Photography Olympus OM-D E-M10 Mark III 📷
 * Ride with my bike 🚲
 * Smile and make people smile 😁
+</p>  
 
-</p>
-  
 </details>
