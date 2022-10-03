@@ -27,13 +27,11 @@
 
 <details>
 <summary>😺 More facts about me! </summary>
-<h3> My passions 💖 <h3> 
-
+##### My passions 💖 
 <p>  
-* Make noise and 3D things 🎨 | [Instagram](https://www.instagram.com/smlopd/)
-* Photography Olympus OM-D E-M10 Mark III 📷
-* Ride with my bike 🚲
-* Smile and make people smile 😁
+- Make noise and 3D things 🎨 | [Instagram](https://www.instagram.com/smlopd/)
+- Photography Olympus OM-D E-M10 Mark III 📷  [Flickr](https://www.flickr.com/photos/189143939@N06/)
+- Ride with my bikes 🚲
+- Smile and make people smile 😁
 </p>  
-
 </details>
