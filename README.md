@@ -4,7 +4,8 @@
 
 ##### 👇 NOW
 
-- 📈 Currently doing an internship
+- 📈 Currently doing an internship at Unit4
+- 📋 Working on a To Do App with React and Firebase [To Do App](https://to-do-app-ibi.netlify.app/).
 - ✨ Doing some challenges from [frontendmentor](https://www.frontendmentor.io/profile/quantosh) website.
 
 ##### 🤵 BIO
