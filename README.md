@@ -38,7 +38,14 @@ Building with .NET, React, and distributed systems in ERP environments.
 
 ## 🚀 Featured Projects
 
-_Coming soon — I'm curating my best work here._
+[**BusApp — Horarios Consorcio Granada**](https://github.com/quantosh/bus-app)
+PWA for consulting bus schedules from the Granada Metropolitan Transport Consortium (70+ interurban lines). Features geolocation origin detection, real-time timers with countdown, route favorites, auto-detection of day type (workday/Saturday/holiday), and full offline support via local JSON fallback. Built with vanilla JS/HTML/CSS — zero dependencies, zero build step.
+
+[**easyCompressor**](https://github.com/quantosh/easyCompressor)
+Cross-browser extension that applies dynamic range compression to audio on any webpage. Features real-time visual feedback (gain reduction meter), configurable threshold and ratio controls, and multi-browser support (Chrome, Edge, Firefox). Open source, manual install.
+
+[**Portfolio**](https://quantosh.netlify.app)
+Personal portfolio showcasing projects, skills, and experience.
 
 ---
 
