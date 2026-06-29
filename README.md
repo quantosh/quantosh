@@ -25,14 +25,14 @@ Building with .NET, React, and distributed systems in ERP environments.
 - 🏦 Background in System Administration → Software Engineering (.NET, React, microservices)
 - 💬 quantosh@gmail.com
 - ⚡ I grow my own 🌶️ peppers — mini farm enthusiast
-- 📝 [Resume (ES)](https://drive.google.com/file/d/1wE3siumGq3f210yQzIXaJ-HkV2Y1QTC5/view?usp=sharing)
 
 ---
 
 ## 📊 GitHub Analytics
 
-![Quantosh's GitHub stats](https://github-readme-stats.vercel.app/api?username=quantosh&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=quantosh&layout=compact&theme=default)
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=quantosh&theme=default)
+![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=quantosh&theme=default)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=quantosh&theme=default)
 
 ---
 
@@ -52,6 +52,7 @@ Personal portfolio showcasing projects, skills, and experience.
 ## 🤝 Connect
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ismaelbareainsua)
+[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/quantosh)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:quantosh@gmail.com)
 
 ---
